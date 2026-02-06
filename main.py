@@ -17,4 +17,5 @@ async def hello(ctx):
     await ctx.send('أهلاً بك! أنا بوت سيرفرك الجديد.')
 
 # ضع التوكن الخاص بك هنا بدلاً من كلمة YOUR_TOKEN_HERE
-bot.run('YOUR_TOKEN_HERE')
+
+bot.run('MTQ2OTI5NDc5NzcwNDUyODA0NQ.GoMYPL.1U1UtQWbVpNnh94tUv8g3LfO2_cytmyX1T4pt8')
